@@ -13,5 +13,5 @@ Por ejemplo, desde la raíz del proyecto:
 python -m http.server 8080
 ```
 
-Después visita `http://localhost:8080`. Tras la primera carga, la aplicación se
+Después visita `http://localhost:5500`. Tras la primera carga, la aplicación se
 puede instalar y volver a abrir sin conexión.
